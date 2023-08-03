@@ -1,0 +1,1 @@
+python jemdoc -c mysite.conf *.jemdoc
