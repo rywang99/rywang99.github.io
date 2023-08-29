@@ -21,12 +21,14 @@ Email: wangruoyu@mail.ustc.edu.cn \n
 - Deepfake Audio & Video Detection
 
 == Awards and honors
+- *1st* of main & sub tracks in [https://www.chimechallenge.org/current/task1/ CHiME-7 DASR], Aug.2023.
 - *1st* of [https://dcase.community/challenge2023/task-few-shot-bioacoustic-event-detection-results DCASE2023 Task5]: few-shot bioacoustic event detection challenge, June. 2023 
 - Outstanding intern of the year in [https://global.iflytek.com/ iFlytek] RDG Platform, Jan. 2022
 - *1st* of 15 constrained and 7 unconstrained tracks in low resource speech recognition challenge [https://www.nist.gov/itl/iad/mig/openasr21-challenge-results OpenASR21], Nov. 2021
 - *2nd* of synthetic speech detection challenge [https://www.asvspoof.org/ ASVspoof2021] LA task, Aug. 2021
 
 == Publications
+- *Ruoyu Wang*, Maokui He, and Jun Du. "The USTC-NERCSLIP Systems for the CHiME-7 DASR Challenge." [https://www.chimechallenge.org/current/workshop/programme CHiME-7 Workshop], 2023.\n
 - *Ruoyu Wang*, Jun Du, and Tian Gao. "Quantum Transfer Learning Using the Large-Scale Unsupervised Pre-Trained Model Wavlm-Large for Synthetic Speech Detection." ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2023.\n
 - *Ruoyu Wang*, Jun Du, and Chang Wang. "Multi-branch Network with Circle Loss Using Voice Conversion and Channel Robust Data Augmentation for Synthetic Speech Detection." Chinese Conference on Biometric Recognition. Cham: Springer Nature Switzerland, 2022.\n
 - Guolong Zhong, Hongyu Song, *Ruoyu Wang*, et al. "External Text Based Data Augmentation for Low-Resource Speech Recognition in the Constrained Condition of OpenASR21 Challenge." Proc. Interspeech 2022 (2022): 4860-4864.\n
