@@ -29,9 +29,9 @@ Email: wangruoyu@mail.ustc.edu.cn \n
 - *2nd* of synthetic speech detection challenge [https://www.asvspoof.org/ ASVspoof2021] LA task, Aug. 2021
 
 == Main Publications
+- Ya Jiang, *Ruoyu Wang*, Jingxuan Zhang, Jun Du, et al. "The USTC-NERCSLIP Systems for the CHiME-9 MCoRec Challenge." CHiME-9 Workshop, 2026. (1st Place Technical Report)
 - Yi Han, Hang Chen, *Ruoyu Wang*, Jun Du, et al. "Hierarchical Contrastive Learning with Speech Language Model for Separating Similar Speakers." ICASSP 2026.
 - Jiangyu Han, *Ruoyu Wang*, Yoshiki Masuyama, et al. "Spatially aware self-supervised models for multi-channel neural speaker diarization." ICASSP 2026.
-- Ya Jiang, *Ruoyu Wang*, Jingxuan Zhang, Jun Du, et al. "The USTC-NERCSLIP Systems for the CHiME-9 MCoRec Challenge." CHiME-9 Workshop, 2026. (1st Place Technical Report)
 - *Ruoyu Wang*, Jun Du, Shu-Tong Niu, et al. "Three-stage modular speaker diarization collaborating with front-end techniques in the CHiME-8 NOTSOFAR-1 challenge." Computer Speech & Language, 2025.
 - *Ruoyu Wang*, Shutong Niu, et al. "Incorporating Spatial Cues in Modular Speaker Diarization for Multi-channel Multi-party Meetings." ICASSP 2025.
 - Shutong Niu, Jun Du, *Ruoyu Wang*, Gao-Bin Yang, et al. "DCF-DS: Deep cascade fusion of diarization and separation for speech recognition under realistic single-channel conditions." IEEE/ACM TASLP, 2025.
